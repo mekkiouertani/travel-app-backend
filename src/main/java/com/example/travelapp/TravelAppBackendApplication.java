@@ -1,4 +1,4 @@
-package com.example.travel_app_backend;
+package com.example.travelapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
